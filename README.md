@@ -4,7 +4,7 @@
   <img alt="prithviworks27-cmd's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-## Hi there 👋
+## Hello There 
 
 <!--
 **prithviworks27-cmd/prithviworks27-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
