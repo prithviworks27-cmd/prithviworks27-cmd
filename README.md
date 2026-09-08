@@ -4,19 +4,18 @@
   <img alt="prithviworks27-cmd's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-## Hello There 
+### 🔭 Currently building
+- 📊 **CBSE Dashboards** — student performance tracking dashboards for classes 10 & 11
+- 🎙️ **NOAH (Cognify Institute)** — an AI-powered voice oral examiner with PDF/OCR test paper upload and 3D particle visuals
+- 🚀 **SIH** — a project for Smart India Hackathon
 
-<!--
-**prithviworks27-cmd/prithviworks27-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Currently learning
+- Python
+- Git & GitHub workflows
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,git,github" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📦 **6** public repositories · 🕒 Last updated: September 08, 2026, 10:21 AM IST
