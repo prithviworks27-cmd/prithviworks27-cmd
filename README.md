@@ -4,16 +4,16 @@
   <img alt="prithviworks27-cmd's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-### 🔭 Currently building
-- 📊 **CBSE Dashboards** — student performance tracking dashboards for classes 10 & 11
-- 🎙️ **NOAH (Cognify Institute)** — an AI-powered voice oral examiner with PDF/OCR test paper upload and 3D particle visuals
-- 🚀 **SIH** — a project for Smart India Hackathon
+### Currently building
+- **CBSE Dashboards** — student performance tracking dashboards for classes 10 & 11
+- **NOAH (Cognify Institute)** — an AI-powered voice oral examiner with PDF/OCR test paper upload and 3D particle visuals
+- **SIH** — a project for Smart India Hackathon
 
-### 🌱 Currently learning
+### Currently learning
 - Python
 - Git & GitHub workflows
 
-### 🛠️ Tech Stack
+###  Tech Stack
 <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,git,github" />
 
 ---
