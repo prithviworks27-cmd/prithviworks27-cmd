@@ -5,12 +5,13 @@
 </picture>
 
 ### Currently building
-- **CBSE Dashboards** — student performance tracking dashboards for classes 10 & 11
-- **NOAH (Cognify Institute)** — an AI-powered voice oral examiner with PDF/OCR test paper upload and 3D particle visuals
+- **CBSE Dashboards** — Student performance analytics dashboards for classes 10 & 11 for both subjective and objective papers.
+- **NOAH (Cognify Institute)** — It's an AI-powered voice oral examiner with PDF/OCR test paper upload.
 - **SIH** — a project for Smart India Hackathon
 
 ### Currently learning
 - Python
+- C++
 - Git & GitHub workflows
 
 ###  Tech Stack
